@@ -22,6 +22,12 @@
 * **Data Architecture**: Implementazione di una logica di validazione rigorosa per normalizzare database legacy incoerenti in modelli **TypeScript** sicuri.
 * **AI Core**: Integrazione nativa con l'SDK di **Gemini 2.0 Flash** per l'analisi dei dati utente e l'uso di Cursor/Antigravity per ottimizzare processi.
 
+#### 📊 Cashflow Semplice (Private Repository)
+*Web app per freelance e piccole imprese per il monitoraggio del flusso di cassa.*
+* **Dashboard Analitica**: Trasformazione di estratti conto bancari (CSV) in grafici interattivi e KPI chiari per una visione immediata della salute finanziaria.
+* **Stack Moderno**: Sviluppata con **Next.js (App Router)**, Tailwind CSS e Recharts per un'esperienza utente responsive e performante.
+* **Cloud Integration**: Gestione sicura dell'autenticazione e della persistenza dei dati tramite **Firebase & Firestore**.
+
 #### 🧪 [TS-Labs](https://github.com/Lorenzo605722/TS-Labs)
 *Laboratorio di logica e validazione dati.*
 * **Focus**: Utilizzo di **Type Guards** e **Discriminated Unions** per gestire l'incertezza dei dati provenienti da API esterne.
