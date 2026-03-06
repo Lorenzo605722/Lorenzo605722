@@ -17,7 +17,7 @@
 ### 🚀 Top Projects
 
 #### 📱 Quota (Private Repository)
-*App mobile per il coaching finanziario e fitness tracking.*
+*App mobile per il coaching finanziario.*
 * **Cloud & Performance**: Ho gestito la migrazione dell'infrastruttura su **Render Starter**, abbattendo la latenza delle API da 50s a una risposta istantanea.
 * **Data Architecture**: Implementazione di una logica di validazione rigorosa per normalizzare database legacy incoerenti in modelli **TypeScript** sicuri.
 * **AI Core**: Integrazione nativa con l'SDK di **Gemini 2.0 Flash** per l'analisi dei dati utente e l'uso di Cursor/Antigravity per ottimizzare processi.
