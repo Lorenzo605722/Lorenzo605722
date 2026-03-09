@@ -2,7 +2,7 @@
 
 **Junior Web & Mobile Developer** specializzato in **React Native**, **TypeScript** e **AI Integration**.
 
-📍 **Modena ➡️ Torino** (Disponibile al trasferimento immediato)
+📍 **Modena ➡️ Torino** (Disponibile ad un eventuale trasferimento)
 
 ---
 
