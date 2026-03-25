@@ -32,6 +32,19 @@
 *Laboratorio di logica e validazione dati.*
 * **Focus**: Utilizzo di **Type Guards** e **Discriminated Unions** per gestire l'incertezza dei dati provenienti da API esterne.
 * **Clean Code**: Esempi pratici di come prevenire bug a runtime tramite la potenza del sistema dei tipi di TypeScript.
+* **Async/Await**: gestione di fetch API reali.
+* **Generic Functions & Types**: implementazione di utility riutilizzabili per la trasformazione di dati, garantendo il mantenimento del tipo (T) dall'input all'output.
+* **Generic Constraints**: utilizzo di `extends keyof T` per manipolare le proprietà degli oggetti in modo dinamico ma strettamente tipizzato (pattern pluck).
+
+---
+
+#### ⚛️ React + TypeScript — Esercizi Pratici
+*Percorso strutturato per padroneggiare React con TypeScript.*
+* **useState — Valori semplici**: booleani, stringhe e numeri per gestire stati base come interruttori, contatori e input utente.
+* **useState — Logica condizionale**: utilizzo di operatori ternari nel JSX per rendere l'interfaccia reattiva allo stato.
+* **useState — Stati multipli**: gestione di più stati collegati che si aggiornano insieme in risposta a un'azione utente.
+* **useState — Array e oggetti**: operazioni su liste dinamiche tramite `filter` e `map` per aggiungere, rimuovere e modificare elementi mantenendo l'immutabilità dello stato.
+
 
 ---
 
