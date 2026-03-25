@@ -38,7 +38,7 @@
 
 ---
 
-#### ⚛️ [React-Labs](https://github.com/-React-TypeScript-Esercizi-Pratici)
+#### ⚛️ [React-Labs](https://github.com/React-Labs-TS)
 *Percorso strutturato per padroneggiare React con TypeScript.*
 * **useState — Valori semplici**: booleani, stringhe e numeri per gestire stati base come interruttori, contatori e input utente.
 * **useState — Logica condizionale**: utilizzo di operatori ternari nel JSX per rendere l'interfaccia reattiva allo stato.
